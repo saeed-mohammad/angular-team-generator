@@ -2,10 +2,12 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
+import { TeamResultComponent } from './team-result/team-result.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TeamResultComponent
   ],
   imports: [
     BrowserModule

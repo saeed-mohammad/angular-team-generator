@@ -1,0 +1,22 @@
+.container {
+  border: 1px solid;
+  border: 1px solid;
+  padding: 2rem;
+  background: #b4e486;
+  width: 50vw;
+
+  > h1 {
+    text-align: center;
+  }
+}
+.app {
+  .teamMember {
+    border: 1px solid;
+    padding: 1rem;
+    height: 80px;
+    overflow: scroll;
+  }
+}
+.error {
+  color: red;
+}
